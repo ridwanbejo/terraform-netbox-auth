@@ -24,8 +24,7 @@ Requirements:
 You can check any examples projects that use this module under `examples` directory.
 
 - user-1-basic
-- user-2-token
-- user-3-multiple
+- user-2-multiple
 - permission-1-basic
 - permission-2-multiple
 
@@ -45,8 +44,7 @@ Ensure that you change the user ID with appropriate value.
 You can check any examples tfvars that use this module under `examples` directory.
 
 - user-1-basic
-- user-2-token
-- user-3-multiple
+- user-2-multiple
 - permission-1-basic
 - permission-2-multiple
 
